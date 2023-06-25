@@ -1,6 +1,6 @@
 # Hi, I am Rajshree aka dsacoder4 📔👩🏻‍💻
 
-<img src="https://static.vecteezy.com/system/resources/previews/003/815/991/original/female-programmer-doing-software-coding-free-vector.jpg" width="500" height="500" />
+<img src="https://static.vecteezy.com/system/resources/previews/003/815/991/original/female-programmer-doing-software-coding-free-vector.jpg" width="300" height="300" />
 
 This is just a practice github account for me to practice my DSA skills. 
 Don't mind the repositories!
