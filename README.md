@@ -1,4 +1,4 @@
-# Hi, I am Rajshree aka dsacoder4 📔👩🏻‍💻
+# Hi, I am dsacoder4 📔👩🏻‍💻
 
 <img src="https://static.vecteezy.com/system/resources/previews/003/815/991/original/female-programmer-doing-software-coding-free-vector.jpg" width="300" height="300" />
 
